@@ -1,2 +1,2 @@
 # Landing page google
-Cliquez ici pour voir le resultat.
+Cliquez [ici](https://plinxxx.github.io/LandingPage-sansCSS/) pour voir le resultat.
